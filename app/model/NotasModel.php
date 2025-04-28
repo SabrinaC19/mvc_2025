@@ -1,5 +1,5 @@
 <?php 
-
+    // Nombre del archivo de la clase
     namespace App\Mvc2025\Model;
 
     interface notas {
